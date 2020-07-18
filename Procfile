@@ -1,1 +1,1 @@
-web: gunicorn projX.projX.wsgi 
+web: gunicorn projX.wsgi 
